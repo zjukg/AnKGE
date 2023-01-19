@@ -1,0 +1,8 @@
+ipython==8.4.0
+numpy==1.19.5
+pytorch_lightning==1.5.10
+PyYAML==6.0
+requests==2.25.1
+torch==1.8.0+cu111
+tqdm==4.61.2
+wandb==0.12.21
