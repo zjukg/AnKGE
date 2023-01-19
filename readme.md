@@ -89,7 +89,7 @@ Please condiser citing this paper if you use the ```code``` or ```data``` from o
 
 Thanks a lot : )
 
-```bigquery
+```
 @InProceedings{AnKGE,
     author    = {Yao Zhen, 
                  Zhang Wen, 
